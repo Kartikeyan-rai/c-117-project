@@ -1,0 +1,4 @@
+body{text-align: center;}
+#div1{background-color: lightblue;width: 100%;margin:0px;box-shadow: 10px 10px 10px black; background-color: blue;}
+#div2{background-color: white; float:none;border-radius: 10px;box-shadow: 10px 10px 10px black;color:black;font-size: x-large;padding: 10px;}
+.label1{width:50%;font-variant: small-caps;font-size: medium; background-color: blue; color: white;}
